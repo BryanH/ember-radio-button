@@ -1,17 +1,10 @@
 'use strict';
 
 module.exports = {
-  extends: 'recommended',
+  extends: 'octane',
   rules: {
-    'no-positive-tabindex': 'off',
-  },
-  overrides: [
-    {
-      files: ['tests/dummy/app/**/*.hbs'],
-      rules: {
-        'no-inline-styles': 'off',
-        'require-input-label': 'off',
-      },
-    },
-  ],
+    'no-curly-component-invocation': false,
+    'no-inline-styles': false,
+    'no-positive-tabindex': false
+  }
 };
