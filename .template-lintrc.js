@@ -5,6 +5,6 @@ module.exports = {
   rules: {
     'no-curly-component-invocation': false,
     'no-inline-styles': false,
-    'no-positive-tabindex': false
-  }
+    'no-positive-tabindex': false,
+  },
 };

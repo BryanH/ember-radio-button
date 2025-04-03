@@ -8,10 +8,10 @@ module.exports = function (defaults) {
     autoImport: {
       webpack: {
         node: {
-          global: true
-        }
-      }
-    }
+          global: true,
+        },
+      },
+    },
   });
 
   /*
