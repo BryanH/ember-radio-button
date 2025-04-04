@@ -11,20 +11,7 @@ export default class RadioButtonInputComponent extends Component {
     }
 
     return null;
-  }),
-
-  invokeChangedAction() {
-    let value = this.get('value');
-    let changedAction = this.get('changed');
-
-    if (changedAction) {
-      changedAction(value);
-    }
-  },
-
-  change() {
-    let value = this.get('value');
-    let groupValue = this.get('groupValue');
+  }
 
   @action change() {
     if (this.args.groupValue !== this.args.value) {
