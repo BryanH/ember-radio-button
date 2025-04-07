@@ -1,7 +1,7 @@
 {
   "name": "ember-radio-button",
-  "version": "3.0.0-beta.1",
-  "description": "This addon provides a RadioButton component...",
+  "version": "3.0.0-beta.2",
+  "description": "This addon provides a RadioButton component for Ember",
   "keywords": [
     "ember-addon"
   ],
