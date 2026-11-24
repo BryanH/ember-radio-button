@@ -15,10 +15,7 @@
 /.eslintcache
 /connect.lock
 /coverage/
-/libpeerconnection.log
-/npm-debug.log*
-/testem.log
-/yarn-error.log
+/*.log
 
 # ember-try
 /.node_modules.ember-try/
