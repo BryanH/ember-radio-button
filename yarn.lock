@@ -10201,10 +10201,10 @@ __metadata:
   languageName: node
   linkType: hard
 
-"http-parser-js@npm:>=0.4.0 <0.4.11":
-  version: 0.4.10
-  resolution: "http-parser-js@npm:0.4.10"
-  checksum: 10c0/5b023c7722cbefd68b86416e32bd63838ec673ffd68c656c5c221011404779664b0914413e1b42760bcf6ee1fd53e1fd63ef2777862d45e2e8b58aaec294380a
+"http-parser-js@npm:>=0.5.1":
+  version: 0.5.10
+  resolution: "http-parser-js@npm:0.5.10"
+  checksum: 10c0/8bbcf1832a8d70b2bd515270112116333add88738a2cc05bfb94ba6bde3be4b33efee5611584113818d2bcf654fdc335b652503be5a6b4c0b95e46f214187d93
   languageName: node
   linkType: hard
 
@@ -18359,20 +18359,20 @@ __metadata:
   linkType: hard
 
 "websocket-driver@npm:>=0.5.1":
-  version: 0.7.3
-  resolution: "websocket-driver@npm:0.7.3"
+  version: 0.8.0
+  resolution: "websocket-driver@npm:0.8.0"
   dependencies:
-    http-parser-js: "npm:>=0.4.0 <0.4.11"
+    http-parser-js: "npm:>=0.5.1"
     safe-buffer: "npm:>=5.1.0"
-    websocket-extensions: "npm:>=0.1.1"
-  checksum: 10c0/0dbab147cae211111d5ec0ce268a78e4d34ab42f73c52a27a8d95e762a2646642e2fee4de44910244cb5f1d89238e6f7ebe534bfc0b8f3726d090dbcee00cf18
+    websocket-extensions: "npm:>=0.2.0"
+  checksum: 10c0/94f00a56b0ec9bd42c774df12b896e28d1de4d4320b31d746b72bc271b66bf639fbeada7a393910a25f9c609339ab9067d75d80c4d7a23607d102be1c9d1d6fc
   languageName: node
   linkType: hard
 
-"websocket-extensions@npm:>=0.1.1":
-  version: 0.1.3
-  resolution: "websocket-extensions@npm:0.1.3"
-  checksum: 10c0/302b51b33b7a1256a7384e837d4e01d3e1efe640e90213b0fe1e87df7f3d288aebf19d968d77b4572e444f96df522ddbe7a2e1c5d11c068a55ae4733ca9e4201
+"websocket-extensions@npm:>=0.2.0":
+  version: 0.2.0
+  resolution: "websocket-extensions@npm:0.2.0"
+  checksum: 10c0/f82a2bc6111e9ada2c6337be8ef7a5464d1239fb443bd472b8d951e6202aacc58356162fced989468a1f1eacd4b744b9a3b03acb4bbce0c6039e62578f27e2b6
   languageName: node
   linkType: hard
 
